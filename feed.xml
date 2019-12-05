@@ -3,12 +3,30 @@
     <title>JL STUDIO</title>
     <link href="https://hanson-jiang.github.io/JL-STUDIO/feed.xml" rel="self" />
     <link href="https://hanson-jiang.github.io/JL-STUDIO" />
-    <updated>2019-12-05T17:12:39+08:00</updated>
+    <updated>2019-12-05T17:40:27+08:00</updated>
     <author>
         <name>Hanson</name>
     </author>
     <id>https://hanson-jiang.github.io/JL-STUDIO</id>
 
+    <entry>
+        <title>Medal</title>
+        <author>
+            <name>Hanson</name>
+        </author>
+        <link href="https://hanson-jiang.github.io/JL-STUDIO/medal.html"/>
+        <id>https://hanson-jiang.github.io/JL-STUDIO/medal.html</id>
+            <category term="勋章"/>
+
+        <updated>2019-12-05T17:33:03+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hanson-jiang.github.io/JL-STUDIO/media/posts/4/2019-Tiao-Zhan-Xun-Zhang.png" alt="Medal" />
+                <figure class="post__image"><img src="https://hanson-jiang.github.io/JL-STUDIO/media/posts/4/2019-Tiao-Zhan-Xun-Zhang.png" alt="" width="1080" height="1080"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Business Poster</title>
         <author>
@@ -16,8 +34,9 @@
         </author>
         <link href="https://hanson-jiang.github.io/JL-STUDIO/business-poster.html"/>
         <id>https://hanson-jiang.github.io/JL-STUDIO/business-poster.html</id>
+            <category term="勋章"/>
 
-        <updated>2019-12-05T12:10:02+08:00</updated>
+        <updated>2019-12-05T17:16:45+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
